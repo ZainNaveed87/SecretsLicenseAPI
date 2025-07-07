@@ -1,3 +1,8 @@
+from utils import initialize_database
+
+initialize_database()
+
+
 from fastapi import FastAPI
 from routes import license_routes
 
