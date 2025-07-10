@@ -7,6 +7,6 @@ requests
 psycopg2
 schedule
 pywhatkit
-
+sqlalchemy
 
 
